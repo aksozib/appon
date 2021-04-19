@@ -951,6 +951,8 @@ opacity: 0;
 }
 
 .contact-bg .contact form .first-row .box input{
+    width: 100%;
+    height: 100%;
     box-sizing: border-box;
     border-radius: 10px;
     border: none;
@@ -963,7 +965,6 @@ opacity: 0;
     color: #555555;
     font-size: 14px;
     text-transform: capitalize;
-    line-height: 20px;
 }
 
 .contact-bg .contact form .last-row {
