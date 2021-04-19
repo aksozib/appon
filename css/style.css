@@ -1059,7 +1059,7 @@ opacity: 0;
       top: 15px;
       transition: all linear 0.3s;
   }
-  .footer-bg .footer .social-link a:hover a i{
+  .footer-bg .footer .social-link a:hover i{
     color:var(--scl);
 }
   .footer-bg .footer .copyright p {
