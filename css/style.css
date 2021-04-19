@@ -958,7 +958,7 @@ opacity: 0;
     border: none;
     outline: none;
     box-sizing: border-box;
-    padding: 12px 0 0 10px;
+    padding-left: 10px;
 }
 
 .contact-bg .contact form .first-row .box input::placeholder{
